@@ -47,9 +47,14 @@ h4{
 }
 
 .res-card:hover{
-    border:2px solid gray;
+    border:1px solid gray;
 }
 
 .res-logo{
     width:100%;
+}
+
+.Search{
+    margin: 1%;
+    padding: 1%;
 }
