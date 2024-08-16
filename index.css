@@ -2,7 +2,7 @@ body{
     margin: 0%;
 }
 h5{
-    margin: 1px;
+    margin: 2px;
     text-wrap: wrap;
 }
 
@@ -41,7 +41,6 @@ h4{
 
 .res-card{
     width:10vw;
-    height:20vw;  
     padding: 5px;
     margin: 10px;
     overflow:hidden;
@@ -50,8 +49,6 @@ h4{
 .res-card:hover{
     border:2px solid gray;
 }
-
-
 
 .res-logo{
     width:100%;
