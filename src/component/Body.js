@@ -1,9 +1,13 @@
 import RestaurantCard from "../component/RestaurantCard";
 import data from "../utils/data.json"
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 const Body = () => {
   const [listOfRestaurant,setListOfRestaurant]=useState(data);
+
+  useEffect(()=>{
+    console.log("anish naik")
+  },[])
     return (
       <>
         <button className="Search"
