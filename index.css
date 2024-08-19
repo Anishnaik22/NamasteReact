@@ -40,10 +40,11 @@ h4{
 }
 
 .res-card{
-    width:10vw;
+    width:15vw;
     padding: 5px;
     margin: 10px;
     overflow:hidden;
+    background-color: #e3e3e3;
 }
 
 .res-card:hover{
@@ -52,6 +53,7 @@ h4{
 
 .res-logo{
     width:100%;
+    height: fit-content;
 }
 
 .Search{
