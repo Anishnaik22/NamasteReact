@@ -53,10 +53,43 @@ h4{
 
 .res-logo{
     width:100%;
-    height: fit-content;
+    height:70%;
 }
 
 .Search{
     margin: 1%;
     padding: 1%;
+    
 }
+
+.Search1{
+    margin: 0px;
+    padding: 1%;
+}
+
+.search-box{
+    height: 6.5vh;
+    margin: 2vw;
+    margin-right: 0vw;
+}
+
+.shimmer-container{
+    
+    display:flex;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+
+.shimmer{
+    width:15vw;
+    height: 50vh;
+    margin: 15px;
+    background-color: #e3e3e3
+}
+
+.Login{
+    margin:2vh 4vh;
+    width: 7vw;
+    height: 7vh;
+}
+
